@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille en ce moment sur [Le site de Compost'en Berry](https://compost-en-berry.vercel.app/)
 
-- 🌱 Je me perfectionne en ce moment en **React JS et reactnative**
+- 🌱 Je me perfectionne en ce moment en **React JS et Next js**
 
 - 📫 Me joindre **clement-mosser@live.fr**
 
